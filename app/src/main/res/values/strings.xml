@@ -1,0 +1,13 @@
+
+<resources>
+    <string name="app_name">Places</string>
+    <string name="action_settings">Settings</string>
+    <string name="place_name">Name</string>
+    <string name="place_location">Location</string>
+    <string name="notes">Notes</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="place_list_fragment_label">Interesting Places</string>
+    <string name="add_place_fragment_label">Add new place</string>
+    <string name="place_detail_fragment_label">Detailed information</string>
+</resources>
